@@ -1,6 +1,6 @@
-##WAV2MIDI
+## WAV2MIDI
 
-####Monophonic Musical Note Recognition and WAV to MIDI conversion
+#### Monophonic Musical Note Recognition and WAV to MIDI conversion
 
 This is a small piece of code which runs in MATLAB(scientific tool) producing MIDI output of the input monophonic audio file.
 
